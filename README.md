@@ -1,4 +1,4 @@
-Gives various statistics of inputted text, including:
+Takes in a .txt file and gives various statistics of inputted text, including:
 
 • Length of longest line in file
 
@@ -10,7 +10,7 @@ Gives various statistics of inputted text, including:
 
 • Number of all space-delineated tokens in file
 
-• Most frequently occurring token(s)
+• Most frequently occurring tokens
 
 • Count of most frequently occurring token (case-insensitive)
 
